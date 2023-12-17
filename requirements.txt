@@ -10,8 +10,4 @@ MarkupSafe==2.1.2
 requests==2.28.2
 urllib3==1.26.15
 Werkzeug==2.2.3
-<<<<<<< HEAD
 zipp==3.15.0
-=======
-zipp==3.15.0
->>>>>>> ada3d009711c13f8158dc4c9bb8a23c69b1d7b91
