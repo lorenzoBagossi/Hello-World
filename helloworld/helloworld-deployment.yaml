@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: helloworld
-        image: lorenzobagossi856/helloworld:2.0
+        image: lorenzobagossi856/helloworld:1.0
         ports:
         - containerPort: 5000
